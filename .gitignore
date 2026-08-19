@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Node / React Native
+node_modules/
+.expo/
+dist/
+
+# Ambientes e Segredos
+.env
+appsettings.Development.json
