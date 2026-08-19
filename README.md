@@ -18,7 +18,6 @@ graph TD
 
 ```
 
-## 📸 Demo / Demonstração
 
 ## 📸 Demonstration / Demonstração
 
