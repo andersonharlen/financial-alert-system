@@ -22,10 +22,10 @@ graph TD
 ## 📸 Demonstration / Demonstração
 
 ### 1. Event-Driven WhatsApp Alert Flow / Fluxo de Alertas Assíncronos
-![Price Alert Flow](assets/alert-flow.gif)
+![Price Alert Flow](financial-mobile/assets/alert-flow.gif)
 
 ### 2. Investment Simulator Module / Módulo Simulador de Investimentos
-![Investment Simulator](assets/simulator.gif)
+![Investment Simulator](financial-mobile/assets/simulator.gif)
 
 ## 🇺🇸 English
 
