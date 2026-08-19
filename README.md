@@ -20,17 +20,13 @@ graph TD
 
 ## 📸 Demo / Demonstração
 
-| Feature / Funcionalidade | Preview |
-| --- | --- |
-| **WhatsApp Alerts** |  |
-| **Investment Simulator** |  |
+## 📸 Demonstration / Demonstração
 
----
+### 1. Event-Driven WhatsApp Alert Flow / Fluxo de Alertas Assíncronos
+![Price Alert Flow](assets/alert-flow.gif)
 
-### 📱 Demonstração do Fluxo (Workflow Demo)
-
-![Financial Alert System](assets/alert-flow.gif.gif)
-![Financial Alert System Simulator](assets/simulator.gif.gif)
+### 2. Investment Simulator Module / Módulo Simulador de Investimentos
+![Investment Simulator](assets/simulator.gif)
 
 ## 🇺🇸 English
 
