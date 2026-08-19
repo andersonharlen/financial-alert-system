@@ -27,6 +27,11 @@ graph TD
 
 ---
 
+### 📱 Demonstração do Fluxo (Workflow Demo)
+
+![Financial Alert System](assets/alert-flow.gif.gif)
+![Financial Alert System Simulator](assets/simulator.gif.gif)
+
 ## 🇺🇸 English
 
 ### Overview
